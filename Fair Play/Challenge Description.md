@@ -1,2 +1,2 @@
-_In field of pixels, I'm tall and lean </br>In a world of codes, I'm rarely seen </br>I can hold a code, encrypted and neat</br> Scan me right, and the challenge you’ll meet_</br>
+_In field of pixels, I'm tall and lean </br>My sides aren't equal, but sharp and clean </br>I can hold a code, encrypted and neat</br> Scan me right, and the challenge you’ll meet_</br>
 Note: The grid will be only helpful once you get past the QR.</br> The flag in this challenge is not in the traditional flag format i.e. TKF25{some_string}. Rather you will decode the final string and put it in the format TKF25{decoded string}.
