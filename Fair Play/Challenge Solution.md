@@ -1,15 +1,9 @@
 # Solution
-The riddle in the description leads to a single answer, **Rectangle**. Now the word rectangle only correlates with the QR codes when you put them together side by side forming a rectangle shape. Next you will notice that the traditional QR scanners can not scan the the QRs. So when you search the web for rectangle QR you will come along a type of QR called rMQR(Rectangular Micro QR Code). To scan it you need to download the app _**QRQR-QR code Reader**_. There is unfortunately no web based scanner as of now.
+The riddle in the description indicates the presence of a rectangular shape that is to be scanned, **Rectangle**. Now the word rectangle only correlates with the QR codes when you put them together side by side forming a rectangle shape. Next you will notice that the traditional QR scanners can not scan the the QRs. So when you search the web for rectangle QR you will come along a type of QR called rMQR(Rectangular Micro QR Code). To scan it you need to download the app _**QRQR-QR code Reader**_. There is unfortunately no web based scanner as of now.
 #
 ![image](https://github.com/user-attachments/assets/cf4633f5-fd8a-4f39-8600-2b7f54fbaf38)
 #
-Once you scan the QR you will get an encoded text, ```NAL69W+AWTA8T95OA``` , when you put it any cipher identifier one of the possible answers you will get is base 45 encoding
-#
-![image](https://github.com/user-attachments/assets/5e23f09d-5e50-487f-8a86-6531e11936e0)
-#
-![image](https://github.com/user-attachments/assets/222fd198-452e-4b9c-99fb-9fdc9d07a3f7)
-#
-When you decode it from base 45, you will get another string, ```SIHTVBTSLRSW```. </br> Now to see what kind of string this is, put it in a cipher identifier that was used earlier. One of the possibilities is playfair cipher, which can also be confirmed by the title of the challenge.
+Once you scan the QR you will get an encoded text, ```SIHTVBTSLRSW```. </br> Now to see what kind of string this is, put it in a cipher identifier. One of the possibilities is playfair cipher, which can also be confirmed by the title of the challenge.
 #
 ![image](https://github.com/user-attachments/assets/972eb3bd-142a-446b-87d9-2c1411b8b85e)
 #
