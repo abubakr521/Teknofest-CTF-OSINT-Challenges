@@ -3,7 +3,7 @@ Put the image into google photos and you can see that the image is of NATO headq
 #
 ![image](https://github.com/user-attachments/assets/b6384af3-74c4-40a9-a2c0-cee2e2214b3d)
 #
-When you check it in cipher identifier you can see that it is NATO alphabetic substitution, hence the hint of NATO Headquarters in the picture. Decode it to get the flag.
+When you check it in cipher identifier you can see that it is NATO alphabetic substitution, hence the hint of NATO headquarters in the picture. Decode it to get the flag.
 #
 ![image](https://github.com/user-attachments/assets/37d7ace7-824b-4e0d-b36b-1307da0100f1)
 #
